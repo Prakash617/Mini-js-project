@@ -1,1 +1,0 @@
-# Mini-js-project
